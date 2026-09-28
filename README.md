@@ -29,7 +29,7 @@ My current learning path includes:
 
 The repository contains my practice programs, exercises, experiments, and small projects as I learn.
 
-
+```
 python-learning/
 │
 ├── basics/
@@ -41,7 +41,7 @@ python-learning/
 ├── file-handling/
 ├── projects/
 └── README.md
-
+```
 
 The structure may change as my learning progresses.
 
