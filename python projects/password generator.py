@@ -6,13 +6,13 @@ import random
 
 
 x = str()
-
-while True:
+end_loop = 0
+while end_loop != 1:
     x = input("\nwant to generate y/n :")
     if x == 'y':
         for i in range(0,16):
              i = random.randrange(33, 126)
              print(chr(i),end='')
-    else:exit()
+    else:end_loop = 1
 
 
